@@ -1,20 +1,3 @@
-Recruitment Rail
-Recruitment Rail is an advanced Applicant Tracking System (ATS) designed to enhance the recruitment process by providing detailed resume evaluations and job matching insights. Built using Streamlit and Google Generative AI, this tool helps streamline candidate screening and improve hiring efficiency.
-
-Features
-Resume Evaluation: Analyze resumes and match them against job descriptions using advanced NLP techniques.
-Keyword Matching: Identify and highlight key skills and keywords in resumes relative to job descriptions.
-Semantic Analysis: Understand and assess the contextual relevance of resume content to job requirements.
-User-Friendly Interface: Interactive web-based application developed with Streamlit for ease of use.
-Technologies
-Languages: Python
-Frameworks and Libraries: Streamlit, Google Generative AI
-Algorithms: Natural Language Processing (NLP), Keyword Matching, Semantic Analysis
-Getting Started
-Prerequisites
-Python 3.xHere's a beautifully formatted README file for your "Recruitment Rail" project:
-
----
 
 # Recruitment Rail
 
