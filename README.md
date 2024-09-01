@@ -63,31 +63,6 @@ We welcome contributions! Feel free to submit issues or pull requests to enhance
 
 This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
 
----
-
-This README provides a clean and clear overview of your project, making it easy for users and contributors to understand and engage with your project.
-Google Generative AI API Key
-Required Python libraries (listed in requirements.txt)
-Installation
-Clone the Repository:
-
-bash
-Copy code
-git clone https://github.com/yourusername/recruitment-rail.git
-cd recruitment-rail
-Install Dependencies:
-
-bash
-Copy code
-pip install -r requirements.txt
-Set Up Environment Variables:
-
-Create a .env file in the root directory.
-Add your Google API key:
-makefile
-Copy code
-GOOGLE_API_KEY=your_google_api_key_here
-Run the Application:
 
 bash
 Copy code
